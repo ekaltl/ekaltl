@@ -1,3 +1,5 @@
-DFS/BFS 기준 학습
+For Algorithm Study
+
+DFS/BFS
 
 백준
