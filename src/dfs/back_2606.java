@@ -1,4 +1,4 @@
-package backjoon;
+package dfs;
 
 //DFS 바이러스, 첫번째와 연결된 노드의 개수 구하기
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package backjoon;
+package dfs;
 
 // DFS 연결 요소의 개수 
 import java.util.Scanner;

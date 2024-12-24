@@ -1,7 +1,9 @@
-package backjoon;
+package Implementation;
 
 import java.util.Scanner;
-
+/*
+문제 유형 : 구현
+ */
 public class back_1913 {
 
 	public static void main(String[] args) {

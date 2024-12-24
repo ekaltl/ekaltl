@@ -1,4 +1,4 @@
-package backjoon;
+package dfs;
 
 import java.util.Scanner;
 

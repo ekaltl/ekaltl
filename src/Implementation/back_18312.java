@@ -1,7 +1,10 @@
-package backjoon;
+package Implementation;
 
 import java.util.Scanner;
-
+/* 
+문제 유형 : 구현
+브루트포스 알고리즘 
+ */
 public class back_18312 {
 
 	public static void main(String[] args) {

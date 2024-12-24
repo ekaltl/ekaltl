@@ -1,4 +1,4 @@
-package backjoon;
+package bfs;
 
 // BFS와 DFS 기본
 import java.util.Queue;

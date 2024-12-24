@@ -1,4 +1,4 @@
-package backjoon;
+package bfs;
 // BFS 미로탐색, 4방향, 최단거리 구하기
 
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package backjoon;
+package dfs;
 
 //유기농배추 DFS, 4방향, 2차원 그래프, 그룹의 수 구하기
 import java.util.Scanner;
