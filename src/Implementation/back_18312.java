@@ -2,6 +2,7 @@ package Implementation;
 
 import java.util.Scanner;
 /* 
+시각
 문제 유형 : 구현
 브루트포스 알고리즘 
  */

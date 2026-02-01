@@ -17,7 +17,7 @@ public class back_2606 {
 		
 		arr=new int [N+1][N+1];
 		visit=new boolean[N+1];
-		for(int i=1; i<N; i++) {
+		for(int i=1; i<M; i++) {
 			int S=scan.nextInt();
 			int E=scan.nextInt();
 			

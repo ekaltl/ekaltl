@@ -2,6 +2,7 @@ package Implementation;
 
 import java.util.Scanner;
 /*
+달팽이
 문제 유형 : 구현
  */
 public class back_1913 {
